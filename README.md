@@ -4,7 +4,7 @@
 🧟 Hi, I'm Abhishek Sardar,<br>🎑 I am currently working as a MERN Developer,<br>⭐ I'm collaborating with NOVA Team,<br>🚩 I'm currently learning other state management,<br>🧧 Ask me about Error, <br> 😂 fun fact: It's profession not passion
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhishek-sard&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Abhishek-sard&theme=radical&no-frame=false&no-bg=true&margin-w=4);
 
 
 
